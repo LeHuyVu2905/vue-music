@@ -18,6 +18,7 @@ module.exports = {
     'eol-last': 'off',
     'vuejs-accessibility/click-events-have-key-events': 'off',
     'no-trailing-spaces': 'off',
+    'function-paren-newline': 'off',
   },
   overrides: [
     {
