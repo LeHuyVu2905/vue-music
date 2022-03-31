@@ -19,6 +19,7 @@ module.exports = {
     'vuejs-accessibility/click-events-have-key-events': 'off',
     'no-trailing-spaces': 'off',
     'function-paren-newline': 'off',
+    'vuejs-accessibility/form-control-has-label': 'off',
   },
   overrides: [
     {
